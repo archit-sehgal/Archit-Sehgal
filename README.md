@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif)]
+![MasterHead](https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif)
 <h1 align="center">Hi 👋, I'm Archit Sehgal</h1>
 <h3 align="center">A passionate frontend developer.</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*yVqaoB4N64ZrBXWo.gif"/>
